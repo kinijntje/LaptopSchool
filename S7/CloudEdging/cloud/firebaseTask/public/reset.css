@@ -1,0 +1,92 @@
+/* Reset CSS */
+body,
+div,
+h1,
+h2,
+h3,
+p,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+form,
+fieldset,
+input,
+textarea,
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Remove default list styles */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Remove default blockquote styling */
+blockquote,
+q {
+    quotes: none;
+}
+
+/* Remove default table spacing */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Reset some common HTML5 structural elements */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+
+/* Reset hyperlinks and remove underline */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Remove default button styling */
+button,
+input,
+optgroup,
+select,
+textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+
+/* Reset input elements */
+input,
+select,
+textarea {
+    outline: none;
+}
+
+/* Set a common box-sizing model for all elements */
+* {
+    box-sizing: border-box;
+}
+
+/* Additional styles can be added based on specific project needs */

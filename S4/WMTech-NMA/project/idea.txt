@@ -1,0 +1,9 @@
+take webtech project s3
+log in with database ==> screen 1
+homescreen ==> screen 2
+press start on homescreen to start a game
+(same start function as previous project but now on different screen) ==> screen 3
+leaderboard button ==> screen 4
+
+notes:
+now you have to bet points to play a game, the lowest amount you can have is 100?.

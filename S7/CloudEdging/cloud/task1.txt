@@ -1,0 +1,70 @@
+SCENARIO 1:
+Microsoft Azure
+Message Queues/Brokers (PaaS): Azure Service Bus (PaaS)
+Real-time Tracking (BaaS): Azure IoT Hub (BaaS)
+NoSQL Database (PaaS): Azure Cosmos DB (PaaS)
+File Storage (PaaS): Azure Blob Storage (PaaS)
+Deployment Model: Hybrid Cloud
+Why: Given the startup's need to track sensitive data about pets and their owners, a hybrid cloud deployment model makes sense. They can keep critical data, such as personal and location data, on a private cloud or on-premises servers to ensure security and compliance. Simultaneously, they can leverage Azure's public cloud services for scalability, real-time tracking, and cost-effectiveness. This approach allows them to strike a balance between data security and cloud advantages.
+
+Google Cloud Platform (GCP)
+Message Queues/Brokers (PaaS): Cloud Pub/Sub (PaaS)
+Real-time Tracking (PaaS): Google Cloud Firestore (PaaS) and Google Maps Platform
+File Storage (PaaS): Google Cloud Storage (PaaS)
+Deployment Model: Public Cloud
+Why: GCP offers robust security features and access controls, making it suitable for handling sensitive data in a public cloud environment. This choice simplifies scalability and management while ensuring data privacy and security. It's a good fit for startups seeking the convenience of the public cloud without compromising security.
+
+IBM Cloud
+Message Queues/Brokers (PaaS): IBM MQ (PaaS)
+Real-time Tracking (PaaS): IBM Cloudant (PaaS)
+File Storage (PaaS): IBM Cloud Object Storage (PaaS)
+Deployment Model: Hybrid Cloud
+Why: Similar to Option 1, IBM Cloud allows the startup to adopt a hybrid cloud approach. By keeping critical data in a private cloud or on-premises infrastructure, they can maintain security and compliance standards. Meanwhile, they can leverage IBM Cloud's public cloud services for scalability and cost-effectiveness. This hybrid model provides a strong balance between data security and cloud benefits.
+
+
+
+SCENARIO 2:
+Public Cloud Migration (e.g., AWS, Azure, GCP)
+Infrastructure as a Service (IaaS) for cloud infrastructure resources.
+Platform as a Service (PaaS) for managed services like serverless computing and managed databases.
+Software as a Service (SaaS) for any cloud-based software applications used alongside the migrated tool.
+
+Managed Cloud Services Provider
+Depending on the specific services provided by the managed services provider, it could include a mix of IaaS, PaaS, and SaaS. The provider may offer managed infrastructure (IaaS), platform services (PaaS), and potentially specialized software services (SaaS) to facilitate the migration and management.
+
+Hybrid Cloud with Outsourcing
+Infrastructure as a Service (IaaS) or Platform as a Service (PaaS) for cloud resources, depending on the cloud provider used for public cloud components.
+The outsourcing of the modernization project may involve various service models, including software development services (SaaS/BaaS), depending on the specific tasks outsourced.
+
+
+
+SCENARIO 3:
+Azure Hybrid Cloud (Azure Stack)
+Why: This option involves IaaS for on-premises infrastructure (Azure Stack) and a mix of IaaS and PaaS in the public Azure cloud to host the various components of the application. IaaS is used for virtual machines and infrastructure management, while PaaS services like Azure SQL Database and Azure App Service simplify application hosting.
+
+AWS Outposts
+Why: Similar to Azure Hybrid Cloud, this option involves IaaS for on-premises infrastructure (AWS Outposts) and a mix of IaaS and PaaS in the public AWS cloud. IaaS handles virtual machines and infrastructure management, while PaaS services like AWS RDS and AWS Elastic Beanstalk simplify database management and application hosting.
+
+Google Cloud Hybrid Cloud
+Why: This option involves IaaS for on-premises infrastructure (on-premises servers and Google Anthos) and a mix of IaaS and PaaS in the public Google Cloud. IaaS is used for virtual machines and infrastructure management, while PaaS services like Google Cloud SQL, Google App Engine, and Google Cloud Functions simplify database management and application hosting.
+
+
+
+SCENARIO 4:
+Google Cloud Platform (GCP)
+SaaS/BaaS (Software as a Service/Backend as a Service): Firebase, which is part of GCP, offers a BaaS platform for developing mobile and web applications.
+Public Cloud: GCP's free tier includes services in the public cloud environment.
+Why: Google Cloud offers a variety of free-tier services, including a small virtual machine (IaaS), App Engine for PaaS, and Firebase for BaaS. These services enable students to build, host, and manage their applications in a public cloud environment without incurring costs during the free tier period.
+
+Microsoft Azure
+IaaS (Infrastructure as a Service): Azure provides virtual machines and various infrastructure services.
+Public Cloud: Azure for Students provides free credits for the public cloud environment.
+Why: Microsoft Azure's free credits through the Azure for Students program can be used to access a range of services in the public cloud, including virtual machines (IaaS), App Service (PaaS), and serverless computing (BaaS). This allows students to develop and deploy their projects in the Azure cloud environment.
+
+IBM Cloud
+PaaS (Platform as a Service): IBM Cloud Foundry provides a PaaS environment for application deployment.
+Public Cloud: IBM Cloud Lite account provides access to free resources in the public cloud.
+Why: IBM Cloud Lite offers a range of free-tier services, including virtual servers (IaaS), Cloud Foundry (PaaS), and serverless computing (BaaS). These services enable students to build and deploy their projects in a public cloud environment while staying within the free-tier limits.
+
+
+

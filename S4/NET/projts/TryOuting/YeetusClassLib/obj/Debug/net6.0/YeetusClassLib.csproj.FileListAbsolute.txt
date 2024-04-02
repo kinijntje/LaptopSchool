@@ -1,0 +1,12 @@
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\YeetusClassLib.csproj.AssemblyReference.cache
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\YeetusClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\YeetusClassLib.AssemblyInfoInputs.cache
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\YeetusClassLib.AssemblyInfo.cs
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\YeetusClassLib.csproj.CoreCompileInputs.cache
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\bin\Debug\net6.0\YeetusClassLib.deps.json
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\bin\Debug\net6.0\YeetusClassLib.dll
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\bin\Debug\net6.0\YeetusClassLib.pdb
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\YeetusClassLib.dll
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\refint\YeetusClassLib.dll
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\YeetusClassLib.pdb
+D:\Documenten\Aschoel\S4\NET\projts\TryOuting\YeetusClassLib\obj\Debug\net6.0\ref\YeetusClassLib.dll

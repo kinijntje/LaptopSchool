@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    background-image: url('assets/donald-trump.webp');
+    background-size: cover; /* or contain, depending on your needs */
+    background-repeat: no-repeat;
+    width: 100%; /* set width and height to cover the entire viewport if necessary */
+    height: 100%;
+}
+
+article {
+    background-color: #ffffff;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+.quote {
+    color: #555;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.saved {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.saved p {
+    font-weight:normal;
+    color: #333;
+    margin-bottom: 1rem;
+    border-bottom: #333 solid 2px;
+}
