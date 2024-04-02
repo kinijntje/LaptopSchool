@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">DnD</string>
+    <string name="sign">Sign</string>
+    <string name="spell_name">Spell Name</string>
+    <string name="spell_school">Spell School</string>
+    <string name="level_input">level %d</string>
+    <string name="level">Level</string>
+    <string name="campaign">Campaign</string>
+    <string name="description">Description:</string>
+    <string name="expand_button_content_description">Expand Button</string>
+    <string name="user">Hello %s</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="NYI">Not Yet Implemented</string>
+
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="filter">Filter</string>
+    <string name="homebrew">HomeBrew</string>
+    <string name="agenda">Agenda</string>
+    <string name="games">Games</string>
+    <string name="races">Races</string>
+    <string name="classes">Classes</string>
+    <string name="spells">Spells</string>
+    <string name="feats">Feats</string>
+    <string name="backgrounds">Backgrounds</string>
+    <string name="items">Items</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="confirm">Confirm</string>
+    <string name="log_out">Log out</string>
+    <string name="camera">Camera</string>
+
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="school">School</string>
+    <string name="time_unit">Time Unit</string>
+    <string name="v_comp">Verbal</string>
+    <string name="s_comp">Semantic</string>
+    <string name="m_comp">Material Component</string>
+    <string name="range_type">Range Type</string>
+    <string name="distance_type">Distance Type</string>
+    <string name="duration_unit">Duration Unit</string>
+    <string name="concentration">Concentration</string>
+
+    <string name="session">Session</string>
+    <string name="use_offline">Use Offline</string>
+
+    <string name="roll20">Suggested site to play D&amp;D online</string>
+    <string name="dnd5e">Good website for all things a player could need to create a character</string>
+    <string name="dnd5etools">Website for more in depth things, usually for DM\'s</string>
+</resources>
